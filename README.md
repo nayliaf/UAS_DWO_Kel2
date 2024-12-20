@@ -1,5 +1,5 @@
 # FP_DWO_KELOMPOK_2
-Final Project Pengembangan Data Warehouse dan Dashboard WHsakila2021<br/>
+Final Project Pengembangan Data Warehouse dan Dashboard Adventure Works 2019<br/>
 Dibuat oleh Kelompok 2 <br/>
 Program Studi Sistem Informasi <br/>
 Fakultas Ilmu Komputer <br/>
@@ -17,5 +17,5 @@ Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 5. Start apache dan mysql server.
 6. Buka phpMyAdmin (localhost/phpmyadmin).
 7. Buat database dengan nama adventureworks2019.
-8. Import file adventureworks2019.sql ke dalam database adventureworks20191.
+8. Import file adventureworks2019.sql ke dalam database adventureworks2019.
 
